@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DateDatagram/DateDatagram.iml" filepath="$PROJECT_DIR$/DateDatagram/DateDatagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DateDatagramClient/DateDatagramClient.iml" filepath="$PROJECT_DIR$/DateDatagramClient/DateDatagramClient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HTTPServer/HTTPServer.iml" filepath="$PROJECT_DIR$/HTTPServer/HTTPServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocketServer/SocketServer.iml" filepath="$PROJECT_DIR$/SocketServer/SocketServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TallerAREM/TallerAREM.iml" filepath="$PROJECT_DIR$/TallerAREM/TallerAREM.iml" />
+    </modules>
+  </component>
+</project>
+
