@@ -1,0 +1,1 @@
+java -cp . -Djava.rmi.server.codebase=file:/home/local/LABINFO/2114928/Documents/TallerClientesAREM/RMIServer/build/classes/ -Djava.security.policy=file:/home/local/LABINFO/2114928/Documents/TallerClientesAREM/RMIServer/configuration/policy rmiserver.EchoServerImpl
